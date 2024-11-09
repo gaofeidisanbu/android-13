@@ -12,7 +12,6 @@
             <option value="$PROJECT_DIR$/androidsourceclient" />
             <option value="$PROJECT_DIR$/androidsourceserver" />
             <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/native" />
           </set>
         </option>
         <option name="resolveExternalAnnotations" value="false" />

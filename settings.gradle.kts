@@ -23,4 +23,3 @@ rootProject.name = "My Application"
 include(":app")
 include(":androidsourceclient")
 include(":androidsourceserver")
-include(":native")
