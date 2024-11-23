@@ -19,7 +19,7 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "My Application"
+rootProject.name = "android13"
 include(":app")
 include(":androidsourceclient")
 include(":androidsourceserver")
